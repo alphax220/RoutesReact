@@ -6,7 +6,7 @@ import Superman from './Component/Superman/Superman'
 import Batman from './Component/Batman/Batman'
 import Doom from './Component/Doom/Doom'
 
-
+//Entrée de l'application avec les routes pour naviguer
 class App extends React.Component
 {
                 

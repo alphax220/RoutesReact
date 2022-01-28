@@ -2,6 +2,7 @@ import React from 'react';
 import Batman  from './Bat.mp4'
 import {Link} from 'react-router-dom'
 
+//Affichage de Batman begins
 function Bat ()
 {
 

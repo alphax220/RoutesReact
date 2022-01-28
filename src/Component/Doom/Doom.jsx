@@ -2,6 +2,7 @@ import React from 'react';
 import Doom  from './Doom.mp4'
 import {Link} from 'react-router-dom'
 
+//Affichage du Doom Slayer
 function Slayer ()
 {
 
